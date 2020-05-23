@@ -1,4 +1,4 @@
-# Chirper Project
+# Twitter Clone App Project
 
 TO BE UPDATED
 

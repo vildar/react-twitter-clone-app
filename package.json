@@ -1,5 +1,5 @@
 {
-  "name": "chirper",
+  "name": "twitter-clone-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
